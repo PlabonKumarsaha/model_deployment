@@ -1,2 +1,2 @@
 # model_deployment
-deploy
+deploy in heroku
